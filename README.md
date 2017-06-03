@@ -1,2 +1,2 @@
 # GeoQuiz
-bignerdranch chapter 2 code
+bignerdranch 2e android code
